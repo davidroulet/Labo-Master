@@ -41,7 +41,7 @@ Screenshot of Github
 //TODO
 ```
 
-* [ ] Create a branch feature called "feat:add terraform basic  script"
+* [ ] Create a branch feature called "terraformBasicScript"
 
 ```
 [INPUT]
@@ -51,7 +51,7 @@ Screenshot of Github
 //TODO
 ```
 
-* [ ] Add this code and commit it
+* [ ] Add this code and commit it (feat:add basic terraform script")
 
 ```
 terraform {
