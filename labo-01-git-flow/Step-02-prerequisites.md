@@ -36,6 +36,7 @@ david@pop-os:~$ git flow version
 ```
 //TODO
 Very usefull
+Explicitly get the default values from the system and global config.
 ```
 
 ## What's git-flow, branches feature.
