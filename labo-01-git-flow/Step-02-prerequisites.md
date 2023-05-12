@@ -19,20 +19,23 @@ Pour Linux, [here is the procedure.](https://howtoinstall.co/en/git-flow)
 //TODO
 ```
 
-* [ ] Confirm the installed version
+* [X] Confirm the installed version
 
 ```
 [INPUT]
-//TODO
+david@pop-os:~$ git flow version
 
 [OUTPUT]
-//TODO
+
+1.12.3 (AVH Edition)
+
 ```
 
 * [ ] What do you think about this release?
 
 ```
 //TODO
+Very usefull
 ```
 
 ## What's git-flow, branches feature.
@@ -41,16 +44,19 @@ Pour Linux, [here is the procedure.](https://howtoinstall.co/en/git-flow)
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Source : A successful git branching model</p></figcaption></figure>
 
-* [ ] Which branches are persistent and what do they contain?
+* [X] Which branches are persistent and what do they contain?
 
 ```
 //TODO
+Main 
+et ce veux etre la branche principal (genre prod)
 ```
 
-* [ ] Why do we have to merge hotfix in both master and develop branches, but not into all active feature branches?
+* [X] Why do we have to merge hotfix in both master and develop branches, but not into all active feature branches?
 
 ```
 //TODO
+Pour evité que le bug revienne à la prochaine release
 ```
 
 ## Initialize git flow on an existing project
@@ -59,12 +65,14 @@ Pour Linux, [here is the procedure.](https://howtoinstall.co/en/git-flow)
 
 ```
 //TODO
+create develops branch
 ```
 
-* [ ] When do we need to make this git command?
+* [X] When do we need to make this git command?
 
 ```
 //TODO
+Pour avoir un bonne environment de travaille
 ```
 
 ## Practice the basic git commands
@@ -75,16 +83,17 @@ Pour Linux, [here is the procedure.](https://howtoinstall.co/en/git-flow)
 
 ```
 //TODO
+ajout tout et ce moque de gitignore
 ```
 
-* [ ] What does this git command "git status" achieve?
+* [X] What does this git command "git status" achieve?
 
 ```
-//TODO
+Montre ce status de la branch sur la quelle on es
 ```
 
-* [ ] What does this git command "git remote add upstream \<url>" achieve?
+* [X] What does this git command "git remote add upstream \<url>" achieve?
 
 ```
-//TODO
+Ajoute une connextion a un autre depot
 ```
